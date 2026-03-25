@@ -1,4 +1,4 @@
-# ☁️ Real-Time Weather Analysis Pipeline: Azure & Power BI
+# ☁️ Real-Time Weather Analysis Pipeline:Azure & Power BI
 
 ## 📌 Project Overview
 This project is an end-to-end cloud data pipeline built entirely within the Azure ecosystem. It automates the extraction of live weather data for Dublin, London, New York, and Dubai, orchestrating its movement from raw extraction to a structured data warehouse, and finally into an interactive dashboard. 
